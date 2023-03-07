@@ -1,0 +1,14 @@
+spring:
+  mail:
+    host: smtp.sendgrid.net
+    port: 587
+    username: giuseppesorrentino11290@gmail.com
+    password: ProvaPeppe011290
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+Apk : "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"
